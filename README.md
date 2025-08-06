@@ -1,4 +1,6 @@
-# RL-PLUS: Countering Capability Boundary Collapse of LLMs in Reinforcement Learning with Hybrid-policy Optimization
+## RL-PLUS: Countering Capability Boundary Collapse of LLMs in Reinforcement Learning with Hybrid-policy Optimization
+
+[![arXiv](https://img.shields.io/badge/arXiv-2508.00222-b31b1b.svg)](https://arxiv.org/abs/2508.00222)
 
 The code for RL-PLUS is currently under examination and will be available as soon as possible (within two weeks at most).
 
@@ -7,7 +9,7 @@ The code for RL-PLUS is currently under examination and will be available as soo
 
 
 
-## Citation
+### Citation
 ```bibtex
 @article{dong2025rlpluscounteringcapabilityboundary,
       title={RL-PLUS: Countering Capability Boundary Collapse of LLMs in Reinforcement Learning with Hybrid-policy Optimization}, 
