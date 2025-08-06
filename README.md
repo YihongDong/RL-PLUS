@@ -11,7 +11,7 @@ The code for RL-PLUS is currently under examination and will be available as soo
 ```bibtex
 @article{dong2025rlpluscounteringcapabilityboundary,
       title={RL-PLUS: Countering Capability Boundary Collapse of LLMs in Reinforcement Learning with Hybrid-policy Optimization}, 
-      author={Yihong Dong and Xue Jiang and Yongding Tao and Huanyu Liu and Kechi Zhang and Lili Mou and Rongyu Cao and Yingwei Ma and Jue Chen and Binhua Li and Zhi Jin and Fei Huang and        Yongbin Li and Ge Li},
+      author = {Dong, Yihong and Jiang, Xue and Tao, Yongding and Liu, Huanyu and Zhang, Kechi and Mou, Lili and Cao, Rongyu and Ma, Yingwei and Chen, Jue and Li, Binhua and Jin, Zhi and Huang, Fei and Li, Yongbin and Li, Ge},
       journal={arXiv preprint arXiv:2508.00222},
       year={2025}
 }
