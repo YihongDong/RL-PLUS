@@ -51,7 +51,7 @@ RL-PLUS is built on top of the GRPO framework and supports plug-and-play integra
 
 ## 🌻 Acknowledgement
 
-RL-PLUS leverages veRL, deepscaler, LUFFY, and simpleRL-reason and uses vLLM for efficient inference. We evaluate its mathematical reasoning capabilities with Math-Verify. We appreciate their high-quality code and outstanding work.  Moreover, we would like to thank the open-source community for their invaluable contributions of datasets and foundational models, including NuminaMath, OpenR1-Math-220k, Qwen2.5-Math, and the DeepSeek-R1 model.
+RL-PLUS leverages verl, deepscaler, LUFFY, and simpleRL-reason and uses vLLM for efficient inference. We evaluate its mathematical reasoning capabilities with Math-Verify. We appreciate their high-quality code and outstanding work.  Moreover, we would like to thank the open-source community for their invaluable contributions of datasets and foundational models, including NuminaMath, OpenR1-Math-220k, Qwen2.5-Math, and the DeepSeek-R1 model.
 
 
 ## 🎈 Citation
